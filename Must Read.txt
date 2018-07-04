@@ -1,0 +1,19 @@
+please import the database file first:  	ecommerce.sql
+
+For just watching the project you can visit: 	project picture (file)
+
+for starting the project : 
+
+1.transfer the project to -> xaamp->htdoc->paste
+2.goto chrome/firefox
+
+3.goto -> http://127.0.0.1/webtechproject/home.php
+
+4.customer login: Username: halim ,password: 12312312 
+	
+		admin: minhaz , password:12312312
+
+
+
+** 3 person project for watching the insigths of github(visit): https://github.com/anikfaysal/webtechproject/graphs/contributors
+			
